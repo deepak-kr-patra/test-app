@@ -30,6 +30,7 @@ function App() {
           Click on the Vite and React logos to learn more
         </p>
 
+        {/* adding comment by clone repository */}
         <div className='bottom'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime aperiam dolorem molestias debitis, nesciunt id recusandae possimus quae sequi aliquam, dicta, placeat natus! Fugiat perspiciatis impedit nihil, harum provident consequuntur. Quisquam nobis, ullam quam nostrum iure perspiciatis. Libero sit alias eligendi nam nisi fugit at laboriosam minima, enim quisquam veritatis beatae ad ex laborum, dolorem necessitatibus! Mollitia iste quam alias accusantium harum non est voluptatibus eligendi esse facilis, sequi suscipit fugit veniam? Doloribus modi ea fuga quo tempora odit aperiam labore temporibus. Asperiores, eveniet alias optio accusantium ratione vitae error. Doloremque sapiente, minus quibusdam excepturi perspiciatis aliquam voluptatibus similique? Eligendi.
         </div>
